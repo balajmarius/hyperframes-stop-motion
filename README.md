@@ -4,14 +4,11 @@ A paper stop-motion experiment, shot on a Fuji X-M5 and edited with HyperFrames 
 
 [![A short preview of the film](media/preview.gif)](media/stopmotion-final.mp4)
 
-[Watch or download the final video](media/stopmotion-final.mp4) · 55.5s · 1620 × 1080
+A hand-wrap roller takes shape through printed interfaces and physical props, one photograph at a time.
 
 ## Behind the Scenes
 
-<p>
-  <img src="media/behind-the-scenes.jpeg" width="360" alt="The overhead camera and lighting setup">
-  <img src="media/paper-interface.jpeg" width="360" alt="Moving a printed interface between shots">
-</p>
+<img src="media/behind-the-scenes.jpeg" alt="The overhead camera and lighting setup" width="480" />
 
 ## Development
 
