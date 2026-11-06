@@ -1,0 +1,2335 @@
+{
+  "fps": 24,
+  "duration": 55.5,
+  "frames": 1332,
+  "songSourceOffset": 8.51,
+  "song": "Electric Light Orchestra - Last Train To London",
+  "bpmMeasured": 121.4,
+  "rhythm": "straight sixteenth/eighth subdivisions; major poses on measured transients; no equal triplets",
+  "zoomIn": [
+    {
+      "frame": 18,
+      "time": 0.75,
+      "scale": 1.3,
+      "beat": 1.5,
+      "origin": [
+        0.51,
+        0.492
+      ]
+    },
+    {
+      "frame": 24,
+      "time": 1.0,
+      "scale": 1.75,
+      "beat": 2,
+      "origin": [
+        0.51,
+        0.492
+      ]
+    },
+    {
+      "frame": 30,
+      "time": 1.25,
+      "scale": 2.35,
+      "beat": 2.5,
+      "origin": [
+        0.51,
+        0.492
+      ]
+    }
+  ],
+  "zoomOut": [
+    {
+      "frame": 480,
+      "time": 20.0,
+      "scale": 1.75,
+      "beat": 40.5,
+      "origin": [
+        0.51,
+        0.492
+      ]
+    },
+    {
+      "frame": 487,
+      "time": 20.291666666666668,
+      "scale": 1.3,
+      "beat": 41,
+      "origin": [
+        0.51,
+        0.492
+      ]
+    },
+    {
+      "frame": 493,
+      "time": 20.541666666666668,
+      "scale": 1,
+      "beat": 41.5,
+      "origin": [
+        0.51,
+        0.492
+      ]
+    }
+  ],
+  "clips": [
+    {
+      "id": "frame-001",
+      "photo": 1,
+      "startFrame": 0,
+      "endFrame": 36,
+      "frames": 36,
+      "beatPosition": 0
+    },
+    {
+      "id": "frame-002",
+      "photo": 2,
+      "startFrame": 36,
+      "endFrame": 39,
+      "frames": 3,
+      "beatPosition": 3.0
+    },
+    {
+      "id": "frame-003",
+      "photo": 3,
+      "startFrame": 39,
+      "endFrame": 42,
+      "frames": 3,
+      "beatPosition": 3.25
+    },
+    {
+      "id": "frame-004",
+      "photo": 4,
+      "startFrame": 42,
+      "endFrame": 45,
+      "frames": 3,
+      "beatPosition": 3.5
+    },
+    {
+      "id": "frame-005",
+      "photo": 5,
+      "startFrame": 45,
+      "endFrame": 48,
+      "frames": 3,
+      "beatPosition": 3.75
+    },
+    {
+      "id": "frame-006",
+      "photo": 6,
+      "startFrame": 48,
+      "endFrame": 51,
+      "frames": 3,
+      "beatPosition": 4.0
+    },
+    {
+      "id": "frame-007",
+      "photo": 7,
+      "startFrame": 51,
+      "endFrame": 54,
+      "frames": 3,
+      "beatPosition": 4.25
+    },
+    {
+      "id": "frame-008",
+      "photo": 8,
+      "startFrame": 54,
+      "endFrame": 57,
+      "frames": 3,
+      "beatPosition": 4.5
+    },
+    {
+      "id": "frame-009",
+      "photo": 9,
+      "startFrame": 57,
+      "endFrame": 60,
+      "frames": 3,
+      "beatPosition": 4.75
+    },
+    {
+      "id": "frame-010",
+      "photo": 10,
+      "startFrame": 60,
+      "endFrame": 63,
+      "frames": 3,
+      "beatPosition": 5.0
+    },
+    {
+      "id": "frame-011",
+      "photo": 11,
+      "startFrame": 63,
+      "endFrame": 69,
+      "frames": 6,
+      "beatPosition": 5.25
+    },
+    {
+      "id": "frame-012",
+      "photo": 12,
+      "startFrame": 69,
+      "endFrame": 72,
+      "frames": 3,
+      "beatPosition": 5.75
+    },
+    {
+      "id": "frame-013",
+      "photo": 13,
+      "startFrame": 72,
+      "endFrame": 75,
+      "frames": 3,
+      "beatPosition": 6.0
+    },
+    {
+      "id": "frame-014",
+      "photo": 14,
+      "startFrame": 75,
+      "endFrame": 77,
+      "frames": 2,
+      "beatPosition": 6.25
+    },
+    {
+      "id": "frame-015",
+      "photo": 15,
+      "startFrame": 77,
+      "endFrame": 81,
+      "frames": 4,
+      "beatPosition": 6.5
+    },
+    {
+      "id": "frame-016",
+      "photo": 16,
+      "startFrame": 81,
+      "endFrame": 84,
+      "frames": 3,
+      "beatPosition": 6.75
+    },
+    {
+      "id": "frame-017",
+      "photo": 17,
+      "startFrame": 84,
+      "endFrame": 87,
+      "frames": 3,
+      "beatPosition": 7.0
+    },
+    {
+      "id": "frame-018",
+      "photo": 18,
+      "startFrame": 87,
+      "endFrame": 90,
+      "frames": 3,
+      "beatPosition": 7.25
+    },
+    {
+      "id": "frame-019",
+      "photo": 19,
+      "startFrame": 90,
+      "endFrame": 93,
+      "frames": 3,
+      "beatPosition": 7.5
+    },
+    {
+      "id": "frame-020",
+      "photo": 20,
+      "startFrame": 93,
+      "endFrame": 95,
+      "frames": 2,
+      "beatPosition": 7.75
+    },
+    {
+      "id": "frame-021",
+      "photo": 21,
+      "startFrame": 95,
+      "endFrame": 101,
+      "frames": 6,
+      "beatPosition": 8.0
+    },
+    {
+      "id": "frame-022",
+      "photo": 22,
+      "startFrame": 101,
+      "endFrame": 107,
+      "frames": 6,
+      "beatPosition": 8.5
+    },
+    {
+      "id": "frame-023",
+      "photo": 23,
+      "startFrame": 107,
+      "endFrame": 113,
+      "frames": 6,
+      "beatPosition": 9.0
+    },
+    {
+      "id": "frame-024",
+      "photo": 24,
+      "startFrame": 113,
+      "endFrame": 119,
+      "frames": 6,
+      "beatPosition": 9.5
+    },
+    {
+      "id": "frame-025",
+      "photo": 25,
+      "startFrame": 119,
+      "endFrame": 122,
+      "frames": 3,
+      "beatPosition": 10.0
+    },
+    {
+      "id": "frame-026",
+      "photo": 26,
+      "startFrame": 122,
+      "endFrame": 128,
+      "frames": 6,
+      "beatPosition": 10.25
+    },
+    {
+      "id": "frame-027",
+      "photo": 27,
+      "startFrame": 128,
+      "endFrame": 131,
+      "frames": 3,
+      "beatPosition": 10.75
+    },
+    {
+      "id": "frame-028",
+      "photo": 28,
+      "startFrame": 131,
+      "endFrame": 134,
+      "frames": 3,
+      "beatPosition": 11.0
+    },
+    {
+      "id": "frame-029",
+      "photo": 29,
+      "startFrame": 134,
+      "endFrame": 137,
+      "frames": 3,
+      "beatPosition": 11.25
+    },
+    {
+      "id": "frame-030",
+      "photo": 30,
+      "startFrame": 137,
+      "endFrame": 143,
+      "frames": 6,
+      "beatPosition": 11.5
+    },
+    {
+      "id": "frame-031",
+      "photo": 31,
+      "startFrame": 143,
+      "endFrame": 146,
+      "frames": 3,
+      "beatPosition": 12.0
+    },
+    {
+      "id": "frame-032",
+      "photo": 32,
+      "startFrame": 146,
+      "endFrame": 148,
+      "frames": 2,
+      "beatPosition": 12.25
+    },
+    {
+      "id": "frame-033",
+      "photo": 33,
+      "startFrame": 148,
+      "endFrame": 152,
+      "frames": 4,
+      "beatPosition": 12.5
+    },
+    {
+      "id": "frame-034",
+      "photo": 34,
+      "startFrame": 152,
+      "endFrame": 157,
+      "frames": 5,
+      "beatPosition": 12.75
+    },
+    {
+      "id": "frame-035",
+      "photo": 35,
+      "startFrame": 157,
+      "endFrame": 160,
+      "frames": 3,
+      "beatPosition": 13.25
+    },
+    {
+      "id": "frame-036",
+      "photo": 36,
+      "startFrame": 160,
+      "endFrame": 163,
+      "frames": 3,
+      "beatPosition": 13.5
+    },
+    {
+      "id": "frame-037",
+      "photo": 37,
+      "startFrame": 163,
+      "endFrame": 166,
+      "frames": 3,
+      "beatPosition": 13.75
+    },
+    {
+      "id": "frame-038",
+      "photo": 38,
+      "startFrame": 166,
+      "endFrame": 172,
+      "frames": 6,
+      "beatPosition": 14.0
+    },
+    {
+      "id": "frame-039",
+      "photo": 39,
+      "startFrame": 172,
+      "endFrame": 175,
+      "frames": 3,
+      "beatPosition": 14.5
+    },
+    {
+      "id": "frame-040",
+      "photo": 40,
+      "startFrame": 175,
+      "endFrame": 178,
+      "frames": 3,
+      "beatPosition": 14.75
+    },
+    {
+      "id": "frame-041",
+      "photo": 41,
+      "startFrame": 178,
+      "endFrame": 181,
+      "frames": 3,
+      "beatPosition": 15.0
+    },
+    {
+      "id": "frame-042",
+      "photo": 42,
+      "startFrame": 181,
+      "endFrame": 187,
+      "frames": 6,
+      "beatPosition": 15.25
+    },
+    {
+      "id": "frame-043",
+      "photo": 43,
+      "startFrame": 187,
+      "endFrame": 190,
+      "frames": 3,
+      "beatPosition": 15.75
+    },
+    {
+      "id": "frame-044",
+      "photo": 44,
+      "startFrame": 190,
+      "endFrame": 193,
+      "frames": 3,
+      "beatPosition": 16.0
+    },
+    {
+      "id": "frame-045",
+      "photo": 45,
+      "startFrame": 193,
+      "endFrame": 203,
+      "frames": 10,
+      "beatPosition": 16.25
+    },
+    {
+      "id": "frame-046",
+      "photo": 46,
+      "startFrame": 203,
+      "endFrame": 206,
+      "frames": 3,
+      "beatPosition": 16.5
+    },
+    {
+      "id": "frame-047",
+      "photo": 47,
+      "startFrame": 206,
+      "endFrame": 208,
+      "frames": 2,
+      "beatPosition": 16.75
+    },
+    {
+      "id": "frame-048",
+      "photo": 48,
+      "startFrame": 208,
+      "endFrame": 211,
+      "frames": 3,
+      "beatPosition": 17.0
+    },
+    {
+      "id": "frame-049",
+      "photo": 49,
+      "startFrame": 211,
+      "endFrame": 213,
+      "frames": 2,
+      "beatPosition": 17.25
+    },
+    {
+      "id": "frame-050",
+      "photo": 50,
+      "startFrame": 213,
+      "endFrame": 216,
+      "frames": 3,
+      "beatPosition": 17.5
+    },
+    {
+      "id": "frame-051",
+      "photo": 51,
+      "startFrame": 216,
+      "endFrame": 219,
+      "frames": 3,
+      "beatPosition": 17.75
+    },
+    {
+      "id": "frame-052",
+      "photo": 52,
+      "startFrame": 219,
+      "endFrame": 222,
+      "frames": 3,
+      "beatPosition": 18.0
+    },
+    {
+      "id": "frame-053",
+      "photo": 53,
+      "startFrame": 222,
+      "endFrame": 224,
+      "frames": 2,
+      "beatPosition": 18.25
+    },
+    {
+      "id": "frame-054",
+      "photo": 54,
+      "startFrame": 224,
+      "endFrame": 227,
+      "frames": 3,
+      "beatPosition": 18.5
+    },
+    {
+      "id": "frame-055",
+      "photo": 55,
+      "startFrame": 227,
+      "endFrame": 233,
+      "frames": 6,
+      "beatPosition": 18.75
+    },
+    {
+      "id": "frame-056",
+      "photo": 56,
+      "startFrame": 233,
+      "endFrame": 235,
+      "frames": 2,
+      "beatPosition": 19.25
+    },
+    {
+      "id": "frame-057",
+      "photo": 57,
+      "startFrame": 235,
+      "endFrame": 238,
+      "frames": 3,
+      "beatPosition": 19.5
+    },
+    {
+      "id": "frame-058",
+      "photo": 58,
+      "startFrame": 238,
+      "endFrame": 241,
+      "frames": 3,
+      "beatPosition": 19.75
+    },
+    {
+      "id": "frame-059",
+      "photo": 59,
+      "startFrame": 241,
+      "endFrame": 244,
+      "frames": 3,
+      "beatPosition": 20.0
+    },
+    {
+      "id": "frame-060",
+      "photo": 60,
+      "startFrame": 244,
+      "endFrame": 246,
+      "frames": 2,
+      "beatPosition": 20.25
+    },
+    {
+      "id": "frame-061",
+      "photo": 61,
+      "startFrame": 246,
+      "endFrame": 248,
+      "frames": 2,
+      "beatPosition": 20.5
+    },
+    {
+      "id": "frame-062",
+      "photo": 62,
+      "startFrame": 248,
+      "endFrame": 251,
+      "frames": 3,
+      "beatPosition": 20.75
+    },
+    {
+      "id": "frame-063",
+      "photo": 63,
+      "startFrame": 251,
+      "endFrame": 254,
+      "frames": 3,
+      "beatPosition": 21.0
+    },
+    {
+      "id": "frame-064",
+      "photo": 64,
+      "startFrame": 254,
+      "endFrame": 256,
+      "frames": 2,
+      "beatPosition": 21.25
+    },
+    {
+      "id": "frame-065",
+      "photo": 65,
+      "startFrame": 256,
+      "endFrame": 259,
+      "frames": 3,
+      "beatPosition": 21.5
+    },
+    {
+      "id": "frame-066",
+      "photo": 66,
+      "startFrame": 259,
+      "endFrame": 261,
+      "frames": 2,
+      "beatPosition": 21.75
+    },
+    {
+      "id": "frame-067",
+      "photo": 67,
+      "startFrame": 261,
+      "endFrame": 264,
+      "frames": 3,
+      "beatPosition": 22.0
+    },
+    {
+      "id": "frame-068",
+      "photo": 68,
+      "startFrame": 264,
+      "endFrame": 267,
+      "frames": 3,
+      "beatPosition": 22.25
+    },
+    {
+      "id": "frame-069",
+      "photo": 69,
+      "startFrame": 267,
+      "endFrame": 270,
+      "frames": 3,
+      "beatPosition": 22.5
+    },
+    {
+      "id": "frame-070",
+      "photo": 70,
+      "startFrame": 270,
+      "endFrame": 273,
+      "frames": 3,
+      "beatPosition": 22.75
+    },
+    {
+      "id": "frame-071",
+      "photo": 71,
+      "startFrame": 273,
+      "endFrame": 276,
+      "frames": 3,
+      "beatPosition": 23.0
+    },
+    {
+      "id": "frame-072",
+      "photo": 72,
+      "startFrame": 276,
+      "endFrame": 279,
+      "frames": 3,
+      "beatPosition": 23.25
+    },
+    {
+      "id": "frame-073",
+      "photo": 73,
+      "startFrame": 279,
+      "endFrame": 282,
+      "frames": 3,
+      "beatPosition": 23.5
+    },
+    {
+      "id": "frame-074",
+      "photo": 74,
+      "startFrame": 282,
+      "endFrame": 285,
+      "frames": 3,
+      "beatPosition": 23.75
+    },
+    {
+      "id": "frame-075",
+      "photo": 75,
+      "startFrame": 285,
+      "endFrame": 288,
+      "frames": 3,
+      "beatPosition": 24.0
+    },
+    {
+      "id": "frame-076",
+      "photo": 76,
+      "startFrame": 288,
+      "endFrame": 291,
+      "frames": 3,
+      "beatPosition": 24.25
+    },
+    {
+      "id": "frame-077",
+      "photo": 77,
+      "startFrame": 291,
+      "endFrame": 294,
+      "frames": 3,
+      "beatPosition": 24.5
+    },
+    {
+      "id": "frame-078",
+      "photo": 78,
+      "startFrame": 294,
+      "endFrame": 297,
+      "frames": 3,
+      "beatPosition": 24.75
+    },
+    {
+      "id": "frame-079",
+      "photo": 79,
+      "startFrame": 297,
+      "endFrame": 300,
+      "frames": 3,
+      "beatPosition": 25.0
+    },
+    {
+      "id": "frame-080",
+      "photo": 80,
+      "startFrame": 300,
+      "endFrame": 303,
+      "frames": 3,
+      "beatPosition": 25.25
+    },
+    {
+      "id": "frame-081",
+      "photo": 81,
+      "startFrame": 303,
+      "endFrame": 306,
+      "frames": 3,
+      "beatPosition": 25.5
+    },
+    {
+      "id": "frame-082",
+      "photo": 82,
+      "startFrame": 306,
+      "endFrame": 309,
+      "frames": 3,
+      "beatPosition": 25.75
+    },
+    {
+      "id": "frame-083",
+      "photo": 83,
+      "startFrame": 309,
+      "endFrame": 312,
+      "frames": 3,
+      "beatPosition": 26.0
+    },
+    {
+      "id": "frame-084",
+      "photo": 84,
+      "startFrame": 312,
+      "endFrame": 315,
+      "frames": 3,
+      "beatPosition": 26.25
+    },
+    {
+      "id": "frame-085",
+      "photo": 85,
+      "startFrame": 315,
+      "endFrame": 318,
+      "frames": 3,
+      "beatPosition": 26.5
+    },
+    {
+      "id": "frame-086",
+      "photo": 86,
+      "startFrame": 318,
+      "endFrame": 321,
+      "frames": 3,
+      "beatPosition": 26.75
+    },
+    {
+      "id": "frame-087",
+      "photo": 87,
+      "startFrame": 321,
+      "endFrame": 323,
+      "frames": 2,
+      "beatPosition": 27.0
+    },
+    {
+      "id": "frame-088",
+      "photo": 88,
+      "startFrame": 323,
+      "endFrame": 326,
+      "frames": 3,
+      "beatPosition": 27.25
+    },
+    {
+      "id": "frame-089",
+      "photo": 89,
+      "startFrame": 326,
+      "endFrame": 330,
+      "frames": 4,
+      "beatPosition": 27.5
+    },
+    {
+      "id": "frame-090",
+      "photo": 90,
+      "startFrame": 330,
+      "endFrame": 332,
+      "frames": 2,
+      "beatPosition": 27.75
+    },
+    {
+      "id": "frame-091",
+      "photo": 91,
+      "startFrame": 332,
+      "endFrame": 335,
+      "frames": 3,
+      "beatPosition": 28.0
+    },
+    {
+      "id": "frame-092",
+      "photo": 92,
+      "startFrame": 335,
+      "endFrame": 338,
+      "frames": 3,
+      "beatPosition": 28.25
+    },
+    {
+      "id": "frame-093",
+      "photo": 93,
+      "startFrame": 338,
+      "endFrame": 341,
+      "frames": 3,
+      "beatPosition": 28.5
+    },
+    {
+      "id": "frame-094",
+      "photo": 94,
+      "startFrame": 341,
+      "endFrame": 344,
+      "frames": 3,
+      "beatPosition": 28.75
+    },
+    {
+      "id": "frame-095",
+      "photo": 95,
+      "startFrame": 344,
+      "endFrame": 347,
+      "frames": 3,
+      "beatPosition": 29.0
+    },
+    {
+      "id": "frame-096",
+      "photo": 96,
+      "startFrame": 347,
+      "endFrame": 350,
+      "frames": 3,
+      "beatPosition": 29.25
+    },
+    {
+      "id": "frame-097",
+      "photo": 97,
+      "startFrame": 350,
+      "endFrame": 353,
+      "frames": 3,
+      "beatPosition": 29.5
+    },
+    {
+      "id": "frame-098",
+      "photo": 98,
+      "startFrame": 353,
+      "endFrame": 356,
+      "frames": 3,
+      "beatPosition": 29.75
+    },
+    {
+      "id": "frame-099",
+      "photo": 99,
+      "startFrame": 356,
+      "endFrame": 359,
+      "frames": 3,
+      "beatPosition": 30.0
+    },
+    {
+      "id": "frame-100",
+      "photo": 100,
+      "startFrame": 359,
+      "endFrame": 362,
+      "frames": 3,
+      "beatPosition": 30.25
+    },
+    {
+      "id": "frame-101",
+      "photo": 101,
+      "startFrame": 362,
+      "endFrame": 365,
+      "frames": 3,
+      "beatPosition": 30.5
+    },
+    {
+      "id": "frame-102",
+      "photo": 102,
+      "startFrame": 365,
+      "endFrame": 368,
+      "frames": 3,
+      "beatPosition": 30.75
+    },
+    {
+      "id": "frame-103",
+      "photo": 103,
+      "startFrame": 368,
+      "endFrame": 374,
+      "frames": 6,
+      "beatPosition": 31.0
+    },
+    {
+      "id": "frame-104",
+      "photo": 104,
+      "startFrame": 374,
+      "endFrame": 377,
+      "frames": 3,
+      "beatPosition": 31.5
+    },
+    {
+      "id": "frame-105",
+      "photo": 105,
+      "startFrame": 377,
+      "endFrame": 380,
+      "frames": 3,
+      "beatPosition": 31.75
+    },
+    {
+      "id": "frame-106",
+      "photo": 106,
+      "startFrame": 380,
+      "endFrame": 384,
+      "frames": 4,
+      "beatPosition": 32.0
+    },
+    {
+      "id": "frame-107",
+      "photo": 107,
+      "startFrame": 384,
+      "endFrame": 386,
+      "frames": 2,
+      "beatPosition": 32.25
+    },
+    {
+      "id": "frame-108",
+      "photo": 108,
+      "startFrame": 386,
+      "endFrame": 389,
+      "frames": 3,
+      "beatPosition": 32.5
+    },
+    {
+      "id": "frame-109",
+      "photo": 109,
+      "startFrame": 389,
+      "endFrame": 392,
+      "frames": 3,
+      "beatPosition": 32.75
+    },
+    {
+      "id": "frame-110",
+      "photo": 110,
+      "startFrame": 392,
+      "endFrame": 395,
+      "frames": 3,
+      "beatPosition": 33.0
+    },
+    {
+      "id": "frame-111",
+      "photo": 111,
+      "startFrame": 395,
+      "endFrame": 398,
+      "frames": 3,
+      "beatPosition": 33.25
+    },
+    {
+      "id": "frame-112",
+      "photo": 112,
+      "startFrame": 398,
+      "endFrame": 409,
+      "frames": 11,
+      "beatPosition": 33.5
+    },
+    {
+      "id": "frame-113",
+      "photo": 113,
+      "startFrame": 409,
+      "endFrame": 412,
+      "frames": 3,
+      "beatPosition": 33.75
+    },
+    {
+      "id": "frame-114",
+      "photo": 114,
+      "startFrame": 412,
+      "endFrame": 414,
+      "frames": 2,
+      "beatPosition": 34.0
+    },
+    {
+      "id": "frame-115",
+      "photo": 115,
+      "startFrame": 414,
+      "endFrame": 417,
+      "frames": 3,
+      "beatPosition": 34.25
+    },
+    {
+      "id": "frame-116",
+      "photo": 116,
+      "startFrame": 417,
+      "endFrame": 420,
+      "frames": 3,
+      "beatPosition": 34.5
+    },
+    {
+      "id": "frame-117",
+      "photo": 117,
+      "startFrame": 420,
+      "endFrame": 422,
+      "frames": 2,
+      "beatPosition": 34.75
+    },
+    {
+      "id": "frame-118",
+      "photo": 118,
+      "startFrame": 422,
+      "endFrame": 425,
+      "frames": 3,
+      "beatPosition": 35.0
+    },
+    {
+      "id": "frame-119",
+      "photo": 119,
+      "startFrame": 425,
+      "endFrame": 428,
+      "frames": 3,
+      "beatPosition": 35.25
+    },
+    {
+      "id": "frame-120",
+      "photo": 120,
+      "startFrame": 428,
+      "endFrame": 431,
+      "frames": 3,
+      "beatPosition": 35.5
+    },
+    {
+      "id": "frame-121",
+      "photo": 121,
+      "startFrame": 431,
+      "endFrame": 433,
+      "frames": 2,
+      "beatPosition": 35.75
+    },
+    {
+      "id": "frame-122",
+      "photo": 122,
+      "startFrame": 433,
+      "endFrame": 436,
+      "frames": 3,
+      "beatPosition": 36.0
+    },
+    {
+      "id": "frame-123",
+      "photo": 123,
+      "startFrame": 436,
+      "endFrame": 438,
+      "frames": 2,
+      "beatPosition": 36.25
+    },
+    {
+      "id": "frame-124",
+      "photo": 124,
+      "startFrame": 438,
+      "endFrame": 441,
+      "frames": 3,
+      "beatPosition": 36.5
+    },
+    {
+      "id": "frame-125",
+      "photo": 125,
+      "startFrame": 441,
+      "endFrame": 444,
+      "frames": 3,
+      "beatPosition": 36.75
+    },
+    {
+      "id": "frame-126",
+      "photo": 126,
+      "startFrame": 444,
+      "endFrame": 447,
+      "frames": 3,
+      "beatPosition": 37.0
+    },
+    {
+      "id": "frame-127",
+      "photo": 127,
+      "startFrame": 447,
+      "endFrame": 449,
+      "frames": 2,
+      "beatPosition": 37.25
+    },
+    {
+      "id": "frame-128",
+      "photo": 128,
+      "startFrame": 449,
+      "endFrame": 452,
+      "frames": 3,
+      "beatPosition": 37.5
+    },
+    {
+      "id": "frame-129",
+      "photo": 129,
+      "startFrame": 452,
+      "endFrame": 455,
+      "frames": 3,
+      "beatPosition": 37.75
+    },
+    {
+      "id": "frame-130",
+      "photo": 130,
+      "startFrame": 455,
+      "endFrame": 457,
+      "frames": 2,
+      "beatPosition": 38.0
+    },
+    {
+      "id": "frame-131",
+      "photo": 131,
+      "startFrame": 457,
+      "endFrame": 459,
+      "frames": 2,
+      "beatPosition": 38.25
+    },
+    {
+      "id": "frame-132",
+      "photo": 132,
+      "startFrame": 459,
+      "endFrame": 463,
+      "frames": 4,
+      "beatPosition": 38.5
+    },
+    {
+      "id": "frame-133",
+      "photo": 133,
+      "startFrame": 463,
+      "endFrame": 465,
+      "frames": 2,
+      "beatPosition": 38.75
+    },
+    {
+      "id": "frame-134",
+      "photo": 134,
+      "startFrame": 465,
+      "endFrame": 467,
+      "frames": 2,
+      "beatPosition": 39.0
+    },
+    {
+      "id": "frame-135",
+      "photo": 135,
+      "startFrame": 467,
+      "endFrame": 470,
+      "frames": 3,
+      "beatPosition": 39.25
+    },
+    {
+      "id": "frame-136",
+      "photo": 136,
+      "startFrame": 470,
+      "endFrame": 473,
+      "frames": 3,
+      "beatPosition": 39.5
+    },
+    {
+      "id": "frame-137",
+      "photo": 137,
+      "startFrame": 473,
+      "endFrame": 475,
+      "frames": 2,
+      "beatPosition": 39.75
+    },
+    {
+      "id": "frame-138",
+      "photo": 138,
+      "startFrame": 475,
+      "endFrame": 478,
+      "frames": 3,
+      "beatPosition": 40.0
+    },
+    {
+      "id": "frame-139",
+      "photo": 139,
+      "startFrame": 478,
+      "endFrame": 480,
+      "frames": 2,
+      "beatPosition": 40.25
+    },
+    {
+      "id": "frame-140",
+      "photo": 140,
+      "startFrame": 480,
+      "endFrame": 499,
+      "frames": 19,
+      "beatPosition": 40.5
+    },
+    {
+      "id": "frame-141",
+      "photo": 141,
+      "startFrame": 499,
+      "endFrame": 522,
+      "frames": 23,
+      "beatPosition": 42.0
+    },
+    {
+      "id": "frame-142",
+      "photo": 142,
+      "startFrame": 522,
+      "endFrame": 525,
+      "frames": 3,
+      "beatPosition": 44.0
+    },
+    {
+      "id": "frame-143",
+      "photo": 143,
+      "startFrame": 525,
+      "endFrame": 531,
+      "frames": 6,
+      "beatPosition": 44.25
+    },
+    {
+      "id": "frame-144",
+      "photo": 144,
+      "startFrame": 531,
+      "endFrame": 534,
+      "frames": 3,
+      "beatPosition": 44.75
+    },
+    {
+      "id": "frame-145",
+      "photo": 145,
+      "startFrame": 534,
+      "endFrame": 538,
+      "frames": 4,
+      "beatPosition": 45.0
+    },
+    {
+      "id": "frame-146",
+      "photo": 146,
+      "startFrame": 538,
+      "endFrame": 543,
+      "frames": 5,
+      "beatPosition": 45.5
+    },
+    {
+      "id": "frame-147",
+      "photo": 147,
+      "startFrame": 543,
+      "endFrame": 549,
+      "frames": 6,
+      "beatPosition": 45.75
+    },
+    {
+      "id": "frame-148",
+      "photo": 148,
+      "startFrame": 549,
+      "endFrame": 552,
+      "frames": 3,
+      "beatPosition": 46.25
+    },
+    {
+      "id": "frame-149",
+      "photo": 149,
+      "startFrame": 552,
+      "endFrame": 558,
+      "frames": 6,
+      "beatPosition": 46.5
+    },
+    {
+      "id": "frame-150",
+      "photo": 150,
+      "startFrame": 558,
+      "endFrame": 561,
+      "frames": 3,
+      "beatPosition": 47.0
+    },
+    {
+      "id": "frame-151",
+      "photo": 151,
+      "startFrame": 561,
+      "endFrame": 567,
+      "frames": 6,
+      "beatPosition": 47.25
+    },
+    {
+      "id": "frame-152",
+      "photo": 152,
+      "startFrame": 567,
+      "endFrame": 570,
+      "frames": 3,
+      "beatPosition": 47.75
+    },
+    {
+      "id": "frame-153",
+      "photo": 153,
+      "startFrame": 570,
+      "endFrame": 576,
+      "frames": 6,
+      "beatPosition": 48.0
+    },
+    {
+      "id": "frame-154",
+      "photo": 154,
+      "startFrame": 576,
+      "endFrame": 579,
+      "frames": 3,
+      "beatPosition": 48.5
+    },
+    {
+      "id": "frame-155",
+      "photo": 155,
+      "startFrame": 579,
+      "endFrame": 585,
+      "frames": 6,
+      "beatPosition": 48.75
+    },
+    {
+      "id": "frame-156",
+      "photo": 156,
+      "startFrame": 585,
+      "endFrame": 588,
+      "frames": 3,
+      "beatPosition": 49.25
+    },
+    {
+      "id": "frame-157",
+      "photo": 157,
+      "startFrame": 588,
+      "endFrame": 594,
+      "frames": 6,
+      "beatPosition": 49.5
+    },
+    {
+      "id": "frame-158",
+      "photo": 158,
+      "startFrame": 594,
+      "endFrame": 597,
+      "frames": 3,
+      "beatPosition": 50.0
+    },
+    {
+      "id": "frame-159",
+      "photo": 159,
+      "startFrame": 597,
+      "endFrame": 603,
+      "frames": 6,
+      "beatPosition": 50.25
+    },
+    {
+      "id": "frame-160",
+      "photo": 160,
+      "startFrame": 603,
+      "endFrame": 606,
+      "frames": 3,
+      "beatPosition": 50.75
+    },
+    {
+      "id": "frame-161",
+      "photo": 161,
+      "startFrame": 606,
+      "endFrame": 612,
+      "frames": 6,
+      "beatPosition": 51.0
+    },
+    {
+      "id": "frame-162",
+      "photo": 162,
+      "startFrame": 612,
+      "endFrame": 615,
+      "frames": 3,
+      "beatPosition": 51.5
+    },
+    {
+      "id": "frame-163",
+      "photo": 163,
+      "startFrame": 615,
+      "endFrame": 620,
+      "frames": 5,
+      "beatPosition": 51.75
+    },
+    {
+      "id": "frame-164",
+      "photo": 164,
+      "startFrame": 620,
+      "endFrame": 623,
+      "frames": 3,
+      "beatPosition": 52.25
+    },
+    {
+      "id": "frame-165",
+      "photo": 165,
+      "startFrame": 623,
+      "endFrame": 629,
+      "frames": 6,
+      "beatPosition": 52.5
+    },
+    {
+      "id": "frame-166",
+      "photo": 166,
+      "startFrame": 629,
+      "endFrame": 632,
+      "frames": 3,
+      "beatPosition": 53.0
+    },
+    {
+      "id": "frame-167",
+      "photo": 167,
+      "startFrame": 632,
+      "endFrame": 638,
+      "frames": 6,
+      "beatPosition": 53.25
+    },
+    {
+      "id": "frame-168",
+      "photo": 168,
+      "startFrame": 638,
+      "endFrame": 641,
+      "frames": 3,
+      "beatPosition": 53.75
+    },
+    {
+      "id": "frame-169",
+      "photo": 169,
+      "startFrame": 641,
+      "endFrame": 652,
+      "frames": 11,
+      "beatPosition": 54.0
+    },
+    {
+      "id": "frame-170",
+      "photo": 170,
+      "startFrame": 652,
+      "endFrame": 659,
+      "frames": 7,
+      "beatPosition": 55.0
+    },
+    {
+      "id": "frame-171",
+      "photo": 171,
+      "startFrame": 659,
+      "endFrame": 662,
+      "frames": 3,
+      "beatPosition": 55.5
+    },
+    {
+      "id": "frame-172",
+      "photo": 172,
+      "startFrame": 662,
+      "endFrame": 668,
+      "frames": 6,
+      "beatPosition": 55.75
+    },
+    {
+      "id": "frame-173",
+      "photo": 173,
+      "startFrame": 668,
+      "endFrame": 671,
+      "frames": 3,
+      "beatPosition": 56.25
+    },
+    {
+      "id": "frame-174",
+      "photo": 174,
+      "startFrame": 671,
+      "endFrame": 676,
+      "frames": 5,
+      "beatPosition": 56.5
+    },
+    {
+      "id": "frame-175",
+      "photo": 175,
+      "startFrame": 676,
+      "endFrame": 683,
+      "frames": 7,
+      "beatPosition": 57.0
+    },
+    {
+      "id": "frame-176",
+      "photo": 176,
+      "startFrame": 683,
+      "endFrame": 686,
+      "frames": 3,
+      "beatPosition": 57.5
+    },
+    {
+      "id": "frame-177",
+      "photo": 177,
+      "startFrame": 686,
+      "endFrame": 692,
+      "frames": 6,
+      "beatPosition": 57.75
+    },
+    {
+      "id": "frame-178",
+      "photo": 178,
+      "startFrame": 692,
+      "endFrame": 695,
+      "frames": 3,
+      "beatPosition": 58.25
+    },
+    {
+      "id": "frame-179",
+      "photo": 179,
+      "startFrame": 695,
+      "endFrame": 700,
+      "frames": 5,
+      "beatPosition": 58.5
+    },
+    {
+      "id": "frame-180",
+      "photo": 180,
+      "startFrame": 700,
+      "endFrame": 707,
+      "frames": 7,
+      "beatPosition": 59.0
+    },
+    {
+      "id": "frame-181",
+      "photo": 181,
+      "startFrame": 707,
+      "endFrame": 710,
+      "frames": 3,
+      "beatPosition": 59.5
+    },
+    {
+      "id": "frame-182",
+      "photo": 182,
+      "startFrame": 710,
+      "endFrame": 715,
+      "frames": 5,
+      "beatPosition": 59.75
+    },
+    {
+      "id": "frame-183",
+      "photo": 183,
+      "startFrame": 715,
+      "endFrame": 718,
+      "frames": 3,
+      "beatPosition": 60.25
+    },
+    {
+      "id": "frame-184",
+      "photo": 184,
+      "startFrame": 718,
+      "endFrame": 724,
+      "frames": 6,
+      "beatPosition": 60.5
+    },
+    {
+      "id": "frame-185",
+      "photo": 185,
+      "startFrame": 724,
+      "endFrame": 730,
+      "frames": 6,
+      "beatPosition": 61.0
+    },
+    {
+      "id": "frame-186",
+      "photo": 186,
+      "startFrame": 730,
+      "endFrame": 733,
+      "frames": 3,
+      "beatPosition": 61.5
+    },
+    {
+      "id": "frame-187",
+      "photo": 187,
+      "startFrame": 733,
+      "endFrame": 739,
+      "frames": 6,
+      "beatPosition": 61.75
+    },
+    {
+      "id": "frame-188",
+      "photo": 188,
+      "startFrame": 739,
+      "endFrame": 742,
+      "frames": 3,
+      "beatPosition": 62.25
+    },
+    {
+      "id": "frame-189",
+      "photo": 189,
+      "startFrame": 742,
+      "endFrame": 748,
+      "frames": 6,
+      "beatPosition": 62.5
+    },
+    {
+      "id": "frame-190",
+      "photo": 190,
+      "startFrame": 748,
+      "endFrame": 751,
+      "frames": 3,
+      "beatPosition": 63.0
+    },
+    {
+      "id": "frame-191",
+      "photo": 191,
+      "startFrame": 751,
+      "endFrame": 756,
+      "frames": 5,
+      "beatPosition": 63.25
+    },
+    {
+      "id": "frame-192",
+      "photo": 192,
+      "startFrame": 756,
+      "endFrame": 760,
+      "frames": 4,
+      "beatPosition": 63.75
+    },
+    {
+      "id": "frame-193",
+      "photo": 193,
+      "startFrame": 760,
+      "endFrame": 764,
+      "frames": 4,
+      "beatPosition": 64.0
+    },
+    {
+      "id": "frame-194",
+      "photo": 194,
+      "startFrame": 764,
+      "endFrame": 768,
+      "frames": 4,
+      "beatPosition": 64.25
+    },
+    {
+      "id": "frame-195",
+      "photo": 195,
+      "startFrame": 768,
+      "endFrame": 772,
+      "frames": 4,
+      "beatPosition": 64.75
+    },
+    {
+      "id": "frame-196",
+      "photo": 196,
+      "startFrame": 772,
+      "endFrame": 778,
+      "frames": 6,
+      "beatPosition": 65.0
+    },
+    {
+      "id": "frame-197",
+      "photo": 197,
+      "startFrame": 778,
+      "endFrame": 781,
+      "frames": 3,
+      "beatPosition": 65.5
+    },
+    {
+      "id": "frame-198",
+      "photo": 198,
+      "startFrame": 781,
+      "endFrame": 784,
+      "frames": 3,
+      "beatPosition": 65.75
+    },
+    {
+      "id": "frame-199",
+      "photo": 199,
+      "startFrame": 784,
+      "endFrame": 790,
+      "frames": 6,
+      "beatPosition": 66.0
+    },
+    {
+      "id": "frame-200",
+      "photo": 200,
+      "startFrame": 790,
+      "endFrame": 793,
+      "frames": 3,
+      "beatPosition": 66.5
+    },
+    {
+      "id": "frame-201",
+      "photo": 201,
+      "startFrame": 793,
+      "endFrame": 796,
+      "frames": 3,
+      "beatPosition": 66.75
+    },
+    {
+      "id": "frame-202",
+      "photo": 202,
+      "startFrame": 796,
+      "endFrame": 801,
+      "frames": 5,
+      "beatPosition": 67.0
+    },
+    {
+      "id": "frame-203",
+      "photo": 203,
+      "startFrame": 801,
+      "endFrame": 804,
+      "frames": 3,
+      "beatPosition": 67.5
+    },
+    {
+      "id": "frame-204",
+      "photo": 204,
+      "startFrame": 804,
+      "endFrame": 810,
+      "frames": 6,
+      "beatPosition": 67.75
+    },
+    {
+      "id": "frame-205",
+      "photo": 205,
+      "startFrame": 810,
+      "endFrame": 813,
+      "frames": 3,
+      "beatPosition": 68.25
+    },
+    {
+      "id": "frame-206",
+      "photo": 206,
+      "startFrame": 813,
+      "endFrame": 816,
+      "frames": 3,
+      "beatPosition": 68.5
+    },
+    {
+      "id": "frame-207",
+      "photo": 207,
+      "startFrame": 816,
+      "endFrame": 822,
+      "frames": 6,
+      "beatPosition": 68.75
+    },
+    {
+      "id": "frame-208",
+      "photo": 208,
+      "startFrame": 822,
+      "endFrame": 825,
+      "frames": 3,
+      "beatPosition": 69.25
+    },
+    {
+      "id": "frame-209",
+      "photo": 209,
+      "startFrame": 825,
+      "endFrame": 828,
+      "frames": 3,
+      "beatPosition": 69.5
+    },
+    {
+      "id": "frame-210",
+      "photo": 210,
+      "startFrame": 828,
+      "endFrame": 834,
+      "frames": 6,
+      "beatPosition": 69.75
+    },
+    {
+      "id": "frame-211",
+      "photo": 211,
+      "startFrame": 834,
+      "endFrame": 837,
+      "frames": 3,
+      "beatPosition": 70.25
+    },
+    {
+      "id": "frame-212",
+      "photo": 212,
+      "startFrame": 837,
+      "endFrame": 843,
+      "frames": 6,
+      "beatPosition": 70.5
+    },
+    {
+      "id": "frame-213",
+      "photo": 213,
+      "startFrame": 843,
+      "endFrame": 846,
+      "frames": 3,
+      "beatPosition": 71.0
+    },
+    {
+      "id": "frame-214",
+      "photo": 214,
+      "startFrame": 846,
+      "endFrame": 849,
+      "frames": 3,
+      "beatPosition": 71.25
+    },
+    {
+      "id": "frame-215",
+      "photo": 215,
+      "startFrame": 849,
+      "endFrame": 855,
+      "frames": 6,
+      "beatPosition": 71.5
+    },
+    {
+      "id": "frame-216",
+      "photo": 216,
+      "startFrame": 855,
+      "endFrame": 858,
+      "frames": 3,
+      "beatPosition": 72.0
+    },
+    {
+      "id": "frame-217",
+      "photo": 217,
+      "startFrame": 858,
+      "endFrame": 861,
+      "frames": 3,
+      "beatPosition": 72.25
+    },
+    {
+      "id": "frame-218",
+      "photo": 218,
+      "startFrame": 861,
+      "endFrame": 867,
+      "frames": 6,
+      "beatPosition": 72.5
+    },
+    {
+      "id": "frame-219",
+      "photo": 219,
+      "startFrame": 867,
+      "endFrame": 870,
+      "frames": 3,
+      "beatPosition": 73.0
+    },
+    {
+      "id": "frame-220",
+      "photo": 220,
+      "startFrame": 870,
+      "endFrame": 875,
+      "frames": 5,
+      "beatPosition": 73.25
+    },
+    {
+      "id": "frame-221",
+      "photo": 221,
+      "startFrame": 875,
+      "endFrame": 878,
+      "frames": 3,
+      "beatPosition": 73.75
+    },
+    {
+      "id": "frame-222",
+      "photo": 222,
+      "startFrame": 878,
+      "endFrame": 883,
+      "frames": 5,
+      "beatPosition": 74.0,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-223",
+      "photo": 223,
+      "startFrame": 883,
+      "endFrame": 888,
+      "frames": 5,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-224",
+      "photo": 224,
+      "startFrame": 888,
+      "endFrame": 891,
+      "frames": 3,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-225",
+      "photo": 225,
+      "startFrame": 891,
+      "endFrame": 895,
+      "frames": 4,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-226",
+      "photo": 226,
+      "startFrame": 895,
+      "endFrame": 901,
+      "frames": 6,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-227",
+      "photo": 227,
+      "startFrame": 901,
+      "endFrame": 906,
+      "frames": 5,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-228",
+      "photo": 228,
+      "startFrame": 906,
+      "endFrame": 909,
+      "frames": 3,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-229",
+      "photo": 229,
+      "startFrame": 909,
+      "endFrame": 914,
+      "frames": 5,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-230",
+      "photo": 230,
+      "startFrame": 914,
+      "endFrame": 919,
+      "frames": 5,
+      "beatPosition": null,
+      "retimedExit": true
+    },
+    {
+      "id": "frame-231",
+      "photo": 231,
+      "startFrame": 919,
+      "endFrame": 1332,
+      "frames": 413,
+      "beatPosition": 77.5
+    }
+  ],
+  "visualAnchors": [
+    {
+      "photo": 2,
+      "beat": 3,
+      "frame": 36,
+      "time": 1.5,
+      "measuredAttack": 1.495,
+      "errorMs": 5.0
+    },
+    {
+      "photo": 21,
+      "beat": 8,
+      "frame": 95,
+      "time": 3.9583333333333335,
+      "measuredAttack": 3.96,
+      "errorMs": -1.667
+    },
+    {
+      "photo": 25,
+      "beat": 10,
+      "frame": 119,
+      "time": 4.958333333333333,
+      "measuredAttack": 4.95,
+      "errorMs": 8.333
+    },
+    {
+      "photo": 44,
+      "beat": 16,
+      "frame": 190,
+      "time": 7.916666666666667,
+      "measuredAttack": 7.91,
+      "errorMs": 6.667
+    },
+    {
+      "photo": 67,
+      "beat": 22,
+      "frame": 261,
+      "time": 10.875,
+      "measuredAttack": 10.88,
+      "errorMs": -5.0
+    },
+    {
+      "photo": 140,
+      "beat": 40.5,
+      "frame": 480,
+      "time": 20.0,
+      "measuredAttack": 19.975,
+      "errorMs": 25.0
+    },
+    {
+      "photo": 141,
+      "beat": 42,
+      "frame": 499,
+      "time": 20.791666666666668,
+      "measuredAttack": 20.78,
+      "errorMs": 11.667
+    },
+    {
+      "photo": 142,
+      "beat": 44,
+      "frame": 522,
+      "time": 21.75,
+      "measuredAttack": 21.755,
+      "errorMs": -5.0
+    },
+    {
+      "photo": 169,
+      "beat": 54,
+      "frame": 641,
+      "time": 26.708333333333332,
+      "measuredAttack": 26.69,
+      "errorMs": 18.333
+    },
+    {
+      "photo": 170,
+      "beat": 55,
+      "frame": 652,
+      "time": 27.166666666666668,
+      "measuredAttack": 27.18,
+      "errorMs": -13.333
+    },
+    {
+      "photo": 175,
+      "beat": 57,
+      "frame": 676,
+      "time": 28.166666666666668,
+      "measuredAttack": 28.16,
+      "errorMs": 6.667
+    },
+    {
+      "photo": 180,
+      "beat": 59,
+      "frame": 700,
+      "time": 29.166666666666668,
+      "measuredAttack": 29.16,
+      "errorMs": 6.667
+    },
+    {
+      "photo": 185,
+      "beat": 61,
+      "frame": 724,
+      "time": 30.166666666666668,
+      "measuredAttack": 30.155,
+      "errorMs": 11.667
+    },
+    {
+      "photo": 190,
+      "beat": 63,
+      "frame": 748,
+      "time": 31.166666666666668,
+      "measuredAttack": 31.15,
+      "errorMs": 16.667
+    },
+    {
+      "photo": 193,
+      "beat": 64,
+      "frame": 760,
+      "time": 31.666666666666668,
+      "measuredAttack": 31.65,
+      "errorMs": 16.667
+    },
+    {
+      "photo": 222,
+      "beat": 74,
+      "frame": 878,
+      "time": 36.583333333333336,
+      "measuredAttack": 36.59,
+      "errorMs": -6.667
+    },
+    {
+      "photo": 231,
+      "beat": 77.5,
+      "frame": 919,
+      "time": 38.291666666666664,
+      "measuredAttack": 38.285,
+      "errorMs": 6.667
+    }
+  ],
+  "ending": "Yellow lowercase Schoolbell facts bend perletter and moveinstopmotiononSpath;231framesfirst,subtleReelsshadow,final250mscleanroll.",
+  "cursorSpeedups": [
+    {
+      "photos": [
+        46,
+        66
+      ],
+      "oldFrames": 66,
+      "newFrames": 59,
+      "speedup": 1.11864406779661,
+      "preCursorHold": 45
+    },
+    {
+      "photos": [
+        113,
+        138
+      ],
+      "oldFrames": 77,
+      "newFrames": 69,
+      "speedup": 1.1159420289855073,
+      "preCursorHold": 112
+    }
+  ],
+  "audioCues": {
+    "musicEnd": 54.89,
+    "musicFadeStart": 54.59,
+    "silentTail": [
+      54.89,
+      55.5
+    ]
+  },
+  "cameraInitial": {
+    "scale": 1,
+    "origin": [
+      0.51,
+      0.492
+    ],
+    "x": 0,
+    "y": 0
+  },
+  "tailZoom": [
+    {
+      "frame": 925,
+      "time": 38.541666666666664,
+      "scale": 1.2,
+      "origin": [
+        0.45,
+        0.465
+      ],
+      "x": 0,
+      "y": 0
+    },
+    {
+      "frame": 931,
+      "time": 38.791666666666664,
+      "scale": 1.5,
+      "origin": [
+        0.45,
+        0.465
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "exitSpeedup": {
+    "photos": [
+      222,
+      230
+    ],
+    "oldFrames": 47,
+    "newFrames": 41,
+    "factor": 1.146341463414634
+  },
+  "closingCredits": {
+    "mode": "shared-native-per-letter-text-paths",
+    "hostStartFrame": 919,
+    "hostDurationFrames": 413,
+    "font": "Schoolbell",
+    "fontSize": 72,
+    "color": "#FFE23F",
+    "words": [
+      {
+        "id": "credit-word-01",
+        "word": "231"
+      },
+      {
+        "id": "credit-word-02",
+        "word": "frames"
+      },
+      {
+        "id": "credit-word-03",
+        "word": "2"
+      },
+      {
+        "id": "credit-word-04",
+        "word": "hours"
+      },
+      {
+        "id": "credit-word-05",
+        "word": "37"
+      },
+      {
+        "id": "credit-word-06",
+        "word": "mins"
+      },
+      {
+        "id": "credit-word-07",
+        "word": "1"
+      },
+      {
+        "id": "credit-word-08",
+        "word": "meat"
+      },
+      {
+        "id": "credit-word-09",
+        "word": "proxy"
+      },
+      {
+        "id": "credit-word-10",
+        "word": "gpt-6.1"
+      },
+      {
+        "id": "credit-word-11",
+        "word": "sol"
+      },
+      {
+        "id": "credit-word-21",
+        "word": "grok"
+      },
+      {
+        "id": "credit-word-22",
+        "word": "4.7"
+      },
+      {
+        "id": "credit-word-12",
+        "word": "fuji"
+      },
+      {
+        "id": "credit-word-13",
+        "word": "xm5"
+      },
+      {
+        "id": "credit-word-14",
+        "word": "last"
+      },
+      {
+        "id": "credit-word-15",
+        "word": "train"
+      },
+      {
+        "id": "credit-word-16",
+        "word": "to"
+      },
+      {
+        "id": "credit-word-17",
+        "word": "london"
+      },
+      {
+        "id": "credit-word-18",
+        "word": "electric"
+      },
+      {
+        "id": "credit-word-19",
+        "word": "light"
+      },
+      {
+        "id": "credit-word-20",
+        "word": "orchestra"
+      }
+    ],
+    "path": "M -360 1450 C -60 1370 240 1200 480 1050 C 600 975 700 930 800 910 C 890 895 950 905 1020 870 C 1140 810 1190 700 1190 560 C 1190 420 1350 420 1560 390 C 1740 340 1960 380 2240 420",
+    "direction": "lower-left to upper-right; normalleft-to-right wordorder",
+    "wordSpacingPx": 32,
+    "phraseSpacingPx": 96,
+    "phraseEndIndices": [
+      1,
+      5,
+      8,
+      10,
+      12,
+      14,
+      18
+    ],
+    "flowFrames": 407,
+    "flowEndFrame": 1326,
+    "cleanRollFrames": 6,
+    "distanceFormula": "head=(pathLength+measuredTrainLength+80)*localFrame/407; localFrame=min(step*3,407); phraseStart=head-cumulativePreviousPhraseAdvance-phraseWidth",
+    "protectedHeroROI": [
+      650,
+      430,
+      420,
+      330
+    ],
+    "curve": "S curve with lower-left entrance dropped150px to clear loosewraptail; central/right sections retained",
+    "shadow": "0 2px 4px rgba(0,0,0,.55)",
+    "groups": [
+      [
+        "231",
+        "frames"
+      ],
+      [
+        "2",
+        "hours",
+        "37",
+        "mins"
+      ],
+      [
+        "1",
+        "meat",
+        "proxy"
+      ],
+      [
+        "gpt-6.1",
+        "sol"
+      ],
+      [
+        "grok",
+        "4.7"
+      ],
+      [
+        "fuji",
+        "xm5"
+      ],
+      [
+        "last",
+        "train",
+        "to",
+        "london"
+      ],
+      [
+        "electric",
+        "light",
+        "orchestra"
+      ]
+    ],
+    "temporalOrder": [
+      "231 frames",
+      "2 hours 37 mins",
+      "1 meat proxy",
+      "gpt-6.1 sol",
+      "grok 4.7",
+      "fuji xm5",
+      "last train to london",
+      "electric light orchestra"
+    ],
+    "lowercase": true,
+    "glyphBending": "native SVGtextPath; glyphs bend along shared Scurve",
+    "glyphAlignment": "dominant-baseline central",
+    "fontDecision": "Schoolbell retained after A/B comparison; enlarged soft transparent shadow requested",
+    "motion": "stop-motion",
+    "stepFrames": 3
+  },
+  "introShiftToCreditsSeconds": 0,
+  "introSteadySeconds": 0.75,
+  "outroExtensionSeconds": 4.958333333333,
+  "introAdvanceFrames": 47,
+  "introMusicSyncCorrections": {
+    "21": -1,
+    "67": -1,
+    "140": -1,
+    "141": 1,
+    "170": -1,
+    "175": -1,
+    "180": -1
+  }
+}

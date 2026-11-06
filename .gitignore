@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# local tooling and generated files
+node_modules/
+.hyperframes/
+.thumbnails/
+.waveform-cache/
+renders/
+*.log
+*.mp4
+!media/stopmotion-final.mp4

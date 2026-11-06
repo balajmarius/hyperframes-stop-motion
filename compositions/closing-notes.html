@@ -1,0 +1,72 @@
+<template>
+  <style>
+    @font-face {
+      font-family: 'Schoolbell';
+      src: url('assets/fonts/Schoolbell-Regular.ttf') format('truetype');
+      font-style: normal; font-weight: 400; font-display: block;
+    }
+    #root { position: absolute; inset: 0; overflow: visible; }
+    #credit-string { position: absolute; inset: 0; width: 1920px; height: 1280px; overflow: visible; }
+    .credit-ink {
+      font-family: 'Schoolbell'; font-size: 72px; font-weight: 400;
+      fill: #FFE23F; color: #FFE23F; white-space: pre; dominant-baseline: central;
+      text-shadow: 0 2px 4px rgba(0,0,0,.55);
+    }
+    .credit-ink tspan { opacity: 0; }
+  </style>
+  <div id="root" data-composition-id="closing-notes" data-width="1920" data-height="1280">
+    <svg id="credit-string" class="clip" data-start="0" data-duration="17.208333333333" data-track-index="1" viewBox="0 0 1920 1280" data-layout-allow-overflow>
+      <defs><path id="credit-thread" d="M -360 1450 C -60 1370 240 1200 480 1050 C 600 975 700 930 800 910 C 890 895 950 905 1020 870 C 1140 810 1190 700 1190 560 C 1190 420 1350 420 1560 390 C 1740 340 1960 380 2240 420"/></defs>
+      <text id="credit-phrase-01" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-01" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-01" data-var-text="credit-word-01" dx="0">231</tspan><tspan id="credit-word-02" data-var-text="credit-word-02" dx="32">frames</tspan></textPath></text>
+      <text id="credit-phrase-02" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-02" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-03" data-var-text="credit-word-03" dx="0">2</tspan><tspan id="credit-word-04" data-var-text="credit-word-04" dx="32">hours</tspan><tspan id="credit-word-05" data-var-text="credit-word-05" dx="32">37</tspan><tspan id="credit-word-06" data-var-text="credit-word-06" dx="32">mins</tspan></textPath></text>
+      <text id="credit-phrase-03" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-03" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-07" data-var-text="credit-word-07" dx="0">1</tspan><tspan id="credit-word-08" data-var-text="credit-word-08" dx="32">meat</tspan><tspan id="credit-word-09" data-var-text="credit-word-09" dx="32">proxy</tspan></textPath></text>
+      <text id="credit-phrase-04" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-04" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-10" data-var-text="credit-word-10" dx="0">gpt-6.1</tspan><tspan id="credit-word-11" data-var-text="credit-word-11" dx="32">sol</tspan></textPath></text>
+      <text id="credit-phrase-08" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-08" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-21" data-var-text="credit-word-21" dx="0">grok</tspan><tspan id="credit-word-22" data-var-text="credit-word-22" dx="32">4.7</tspan></textPath></text>
+      <text id="credit-phrase-05" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-05" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-12" data-var-text="credit-word-12" dx="0">fuji</tspan><tspan id="credit-word-13" data-var-text="credit-word-13" dx="32">xm5</tspan></textPath></text>
+      <text id="credit-phrase-06" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-06" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-14" data-var-text="credit-word-14" dx="0">last</tspan><tspan id="credit-word-15" data-var-text="credit-word-15" dx="32">train</tspan><tspan id="credit-word-16" data-var-text="credit-word-16" dx="32">to</tspan><tspan id="credit-word-17" data-var-text="credit-word-17" dx="32">london</tspan></textPath></text>
+      <text id="credit-phrase-07" class="credit-ink" data-layout-allow-overflow><textPath id="credit-path-07" href="#credit-thread" startOffset="-10000"><tspan id="credit-word-18" data-var-text="credit-word-18" dx="0">electric</tspan><tspan id="credit-word-19" data-var-text="credit-word-19" dx="32">light</tspan><tspan id="credit-word-20" data-var-text="credit-word-20" dx="32">orchestra</tspan></textPath></text>
+    </svg>
+  </div>
+  <script>
+    document.fonts.load('72px Schoolbell').then((faces) => {
+      if (!faces.length) throw new Error('Schoolbell did not load');
+      const pathLength = document.querySelector('#credit-thread').getTotalLength();
+      let trainLength = 0;
+      // Facts follow the requested temporal order. Each phrase is drawn on
+      // the same path, with native SVG per-letter bending and normal spelling.
+      const phrases = [...document.querySelectorAll('textPath')].map((textPath) => {
+        let width = 0;
+        const words = [...textPath.querySelectorAll('tspan')].map((span, index) => {
+          if (index) width += 32;
+          const wordWidth = span.getComputedTextLength();
+          const item = { span, width: wordWidth, offset: width };
+          width += wordWidth;
+          return item;
+        });
+        const phrase = { textPath, words, width, offset: trainLength };
+        trainLength += width + 96;
+        return phrase;
+      });
+      trainLength -= 96;
+      const tl = gsap.timeline({ paused: true });
+      // Shared travel in stop-motion poses; first fact:231frames.
+      const flowFrames = 407;
+      for (let step = 0; step <= Math.ceil(flowFrames / 3); step++) {
+        const localFrame = Math.min(step * 3, flowFrames);
+        const time = localFrame / 24;
+        const head = (pathLength + trainLength + 80) * localFrame / flowFrames;
+        phrases.forEach(({ textPath, words, width, offset }) => {
+          const start = head - offset - width;
+          tl.set(textPath, { attr: { startOffset: start } }, time);
+          words.forEach((word) => {
+            // Off-path glyphs are hidden beyond the offscreen endpoints.
+            const visible = start + word.offset >= 0 && start + word.offset + word.width <= pathLength;
+            tl.set(word.span, { opacity: visible ? 1 : 0 }, time);
+          });
+        });
+      }
+      window.__timelines = window.__timelines || {};
+      window.__timelines['closing-notes'] = tl;
+    });
+  </script>
+</template>
